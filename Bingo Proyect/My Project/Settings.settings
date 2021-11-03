@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="language" Type="System.String" Scope="User">
+      <Value Profile="(Default)">spanish</Value>
+    </Setting>
+    <Setting Name="fondo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tela roja</Value>
+    </Setting>
+    <Setting Name="fuentes_bingo" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 72pt</Value>
+    </Setting>
+    <Setting Name="fuentes_bingo_color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="fuentes_linea" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 72pt</Value>
+    </Setting>
+    <Setting Name="fuentes_linea_color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="fuentes_nombre" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 48pt</Value>
+    </Setting>
+    <Setting Name="fuentes_nombre_color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="color_fondo_panel" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="color_fondo_numeros" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="color_texto_numeros" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="color_fondo_numeros_org" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="color_texto_numeros_org" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="fuente_texto_numeros" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Times New Roman, 20.25pt</Value>
+    </Setting>
+    <Setting Name="fuente_texto_numeros_org" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Times New Roman, 20.25pt</Value>
+    </Setting>
+    <Setting Name="fondo_pers" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="fondo_pers_combobox" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="fondo_last" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="panel_sh" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lbl_grande" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Times New Roman, 108pt</Value>
+    </Setting>
+    <Setting Name="lbl_grande_color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="tiemp_contador" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
