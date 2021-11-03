@@ -1,6 +1,6 @@
 # Bingo Project
 
-![Logo](logo.png | width=50)
+<img src="logo.png" alt="Logo" width="50"/>
 
 This is my very first software project with a real life application!
 
@@ -63,7 +63,7 @@ And, of course, you could customize it: change the fonts, colors and background 
 
 I almost forget it! THE SPLASH SCREEN!
 
-No software is a *real software* without one.
+No software is *serious software* without one.
 
 ![Splash screen](Screenshots/bingo_splash.png)
 
